@@ -1,0 +1,32 @@
+.header-icon{
+	font-size: 20px !important;
+	
+}
+.point{
+	cursor: pointer;
+}
+#line-fluid{
+	border-top: 1px solid blue;
+	border-bottom: 1px solid blue;
+
+}
+input,select,button{
+	border-radius: 0 !important;
+}
+.list-group>.active{
+	border-radius: 0 !important;
+
+}
+.list-group>.active{
+	background-color: darkorange !important;
+	
+}
+.card-body>h2,p,b{
+	height: 5px;
+	font-size: 14px;
+}
+.product>.card:hover{
+	box-shadow: -1px 0px 7px -1px rgba(0,0,0,0.63);
+	-webkit-box-shadow: -1px 0px 7px -1px rgba(0,0,0,0.63);
+	-moz-box-shadow: -1px 0px 7px -1px rgba(0,0,0,0.63);
+}
